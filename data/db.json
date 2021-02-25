@@ -1,0 +1,75 @@
+[
+  {
+    "id": 5928101,
+    "title": "Cat Cabaret",
+    "description": "Yay felines! Boo canines!",
+    "location": "Meow Town, USA",
+    "date": "2021-03-19",
+    "starttime": "02:00",
+    "endtime": "16:30"
+  },
+  {
+    "id": 8419988,
+    "title": "Kitty Cluster",
+    "description": "Yay cats!",
+    "location": "Catlandia",
+    "date": "2019-01-31",
+    "starttime": "7:00"
+  },
+  {
+    "id": 3571937,
+    "title": "Planting Trees",
+    "description": "Let's plant some trees!!",
+    "location": "Forest",
+    "date": "2021-01-22",
+    "starttime": "2:00"
+  },
+  {
+    "id": 4,
+    "title": "Disco Party",
+    "date": "2018-08-12",
+    "starttime": "10:00",
+    "location": "Daytona Beach",
+    "description": "Let's clean up this beach."
+  },
+  {
+    "id": 6,
+    "title": "Orlando Dev Meetup",
+    "date": "2018-12-02",
+    "starttime": "12:00",
+    "location": "132 N Magnolia Street, Orlando, Florida",
+    "description": "Help animals find new homes."
+  },
+  {
+    "id": 7,
+    "title": "Yoga Class",
+    "date": "2020-02-25",
+    "starttime": "10:00",
+    "location": "Daytona Beach",
+    "description": "Let's clean up this beach."
+  },
+  {
+    "id": 8,
+    "title": "Breathing Meditation",
+    "date": "2021-01-15",
+    "starttime": "12:00",
+    "location": "132 N Magnolia Street, Orlando, Florida",
+    "description": "We're going to clean up this park."
+  },
+  {
+    "id": 9,
+    "title": "Dancing Class",
+    "date": "2020-11-24",
+    "starttime": "12:00",
+    "location": "132 N Magnolia Street, Orlando, Florida",
+    "description": "Help animals find new homes."
+  },
+  {
+    "id": 7687659,
+    "title": "Nature v Nurture",
+    "description": "",
+    "location": "",
+    "date": "",
+    "starttime": ""
+  }
+]
