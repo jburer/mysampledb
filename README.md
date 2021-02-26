@@ -14,7 +14,7 @@ and services that I'm using to build the system.
 
 As I apply security and privacy, I will branch this code and explain what's being done.
 
-For more info on this effort check out my blog: <a href="http://jburer.wordpress.com" target="_blank">http://jburer.wordpress.com</a>
+For more info on this effort check out my blog: (http://jburer.wordpress.com)
 
 ## The Datastore
 
