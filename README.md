@@ -1,9 +1,9 @@
 # mySampleDB
 
-_The thrid part of a three part app: The Datastore._
+The thrid part of a three part app: The Datastore.
 
-- The corresponding **API** is here: <a href="https://github.com/jburer/mysampleapi" target="_blank">https://github.com/jburer/mysampleapi</a>.
-- The corresponding **app** is here: <a href="https://github.com/jburer/mysampleapp" target="_blank">https://github.com/jburer/mysampleapp</a>.
+- _The corresponding **API** is here: (https://github.com/jburer/mysampleapi)._
+- _The corresponding **app** is here: (https://github.com/jburer/mysampleapp)._
 
 # Purpose
 
@@ -18,11 +18,11 @@ For more info on this effort check out my blog: <a href="http://jburer.wordpress
 
 ## The Datastore
 
-The <code>mysampledb</code> database is a JSON document inside MongoDB. It's loaded with data
-into the <code>shindigs</code> collection when composed from
-<code>./data/db.json</code>.
+The `mysampledb` database is a JSON document inside MongoDB. It's loaded with data
+into the `shindigs` collection when composed from
+`./data/db.json`.
 
-The database is exposed on port <code>:27017</code>.
+The database is exposed on port `:27017`.
 
 ## Architecture
 
@@ -34,7 +34,7 @@ It is designed to be run inside a Docker container.
 
 ## Docker Setup
 
-Clone the repository and move to the <code>mysampledb</code> directory.
+Clone the repository and move to the `mysampledb` directory.
 
 ```
 docker-compose up -d
