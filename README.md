@@ -2,7 +2,7 @@
 
 The thrid part of a three part app: The Datastore.
 
-Designed to give me a "<i>clean</i>" system for explaining and applying security and
+Designed to give me a <i>clean</i> system for explaining and applying security and
 privacy principals, I created a simple app, API, and datastore where the
 only security and privacy applied is that which is inherent in the frameworks, software,
 and services that I'm using to build the system.
@@ -13,34 +13,34 @@ For more info on this effort check out my blog: <a href="http://jburer.wordpress
 
 ## The Datastore
 
-The <code>mysampledb</code> database is a JSON document inside MongoDB. It's loaded from
-the <code>db.json</code> file and into the <code>shindigs</code> collection when composed.
+The <code>mysampledb</code> database is a JSON document inside MongoDB. It's loaded with data
+into the <code>shindigs</code> collection when composed from
+<code>./data/db.json</code>.
 
-The corresponding API is here: <a href="https://github.com/jburer/mysampleapi" target="_blank">https://github.com/jburer/mysampleapi</a>.  
-<i>NOTE: This app is hardcoded to look for the API on port 3000</i>
+The database is exposed on port <code>:27017</code>.
 
-The corresponding app is here: <a href="https://github.com/jburer/nistapi" target="_blank">https://github.com/jburer/nistapi</a>.  
-<i>NOTE: This app is hardcoded to look for the API on port 3000</i>
+The corresponding <i>API</i> is here: <a href="https://github.com/jburer/mysampleapi" target="_blank">https://github.com/jburer/mysampleapi</a>.
+
+The corresponding <i>app</i> is here: <a href="https://github.com/jburer/mysampleapp" target="_blank">https://github.com/jburer/mysampleapp</a>.
 
 ## Architecture
 
-This is pretty straightforward Vue app that points to the required API.
+This is pretty straightforward DB setup that sits independently from the API and app.
 
 <img src="./images/mySampleDB.gif" alt="mySampleDB">
 
-It is designed to be run inside a Docker container, but can be run as a node app as well.
+It is designed to be run inside a Docker container.
 
-## Docker setup
+## Docker Setup
 
 Clone the repository and move to the <code>mysampledb</code> directory.
 
 ```
-docker build -t <whatever>/nistapp .
-docker run -d -p 8080:80 --name nistapp <whatever>/nistapp
+docker-compose up -d
 ```
 
-This will make the app available on
+This will make the datastore available at the following URI:
 
 ```
-http://localhost:8080
+mongodb://localhost:27017
 ```
