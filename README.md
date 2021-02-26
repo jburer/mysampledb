@@ -1,9 +1,9 @@
 # mySampleDB
 
-<i>The thrid part of a three part app: The Datastore.</i>
+_The thrid part of a three part app: The Datastore._
 
-The corresponding <b>API</b> is here: <a href="https://github.com/jburer/mysampleapi" target="_blank">https://github.com/jburer/mysampleapi</a>.
-The corresponding <b>app</b> is here: <a href="https://github.com/jburer/mysampleapp" target="_blank">https://github.com/jburer/mysampleapp</a>.
+- The corresponding **API** is here: <a href="https://github.com/jburer/mysampleapi" target="_blank">https://github.com/jburer/mysampleapi</a>.
+- The corresponding **app** is here: <a href="https://github.com/jburer/mysampleapp" target="_blank">https://github.com/jburer/mysampleapp</a>.
 
 # Purpose
 
@@ -28,7 +28,7 @@ The database is exposed on port <code>:27017</code>.
 
 This is pretty straightforward DB setup that sits independently from the API and app.
 
-<img src="./images/mySampleDB.gif" alt="mySampleDB">
+![mySampleDB](/images/mySampleDB.gif)
 
 It is designed to be run inside a Docker container.
 
