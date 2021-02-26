@@ -2,10 +2,9 @@
 
 The thrid part of a three part app: The Datastore.
 
-Designed to give me a system for explaining and applying security and
-privacy principals, I created a simple app, API, and datastore.
-
-The only security and privacy applied is that which is inherent in the frameworks, software,
+Designed to give me a "<i>clean</i>" system for explaining and applying security and
+privacy principals, I created a simple app, API, and datastore where the
+only security and privacy applied is that which is inherent in the frameworks, software,
 and services that I'm using to build the system.
 
 As I apply security and privacy, I will branch this code and explain what's being done.
