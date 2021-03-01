@@ -1,13 +1,12 @@
 version: '3'
 
 services:
-  mongodb:
+  mysimpledb:
     image: mongo
     ports:
       - "27017:27017"
-    container_name: mysimpledb
 
   mongo-seed:
     build: ./
     links:
-      - mongodb
+      - mysimpledb
