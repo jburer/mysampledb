@@ -36,8 +36,12 @@ It is designed to be run inside a Docker container.
 
 Clone the repository and move to the `mysimpledb` directory.
 
-`docker-compose up -d`
+```
+docker-compose up -d
+```
 
 This will make the datastore available at the following URI:
 
-`mongodb://localhost:27017`
+```
+mongodb://localhost:27017
+```
