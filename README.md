@@ -5,7 +5,7 @@ The thrid part of a three part app: The Datastore.
 - _The corresponding **API** is here: (https://github.com/jburer/mysampleapi)._
 - _The corresponding **app** is here: (https://github.com/jburer/mysampleapp)._
 
-# thePurpose
+## thePurpose
 
 Designed to give me a "clean" system for explaining and applying security and
 privacy principals, I created a simple app, API, and datastore where the
