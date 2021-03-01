@@ -1,11 +1,11 @@
-# mySampleDB
+# mySimpleDB
 
 The thrid part of a three part app: The Datastore.
 
 - _The corresponding **API** is here: (https://github.com/jburer/mysampleapi)._
 - _The corresponding **app** is here: (https://github.com/jburer/mysampleapp)._
 
-# Purpose
+# thePurpose
 
 Designed to give me a "clean" system for explaining and applying security and
 privacy principals, I created a simple app, API, and datastore where the
@@ -16,25 +16,25 @@ As I apply security and privacy, I will branch this code and explain what's bein
 
 For more info on this effort check out my blog: (http://jburer.wordpress.com)
 
-## The Datastore
+## theDatastore
 
-The `mysampledb` database is a JSON document inside MongoDB. It's loaded with data
+The `mysimpledb` database is a JSON document inside MongoDB. It's loaded with data
 into the `shindigs` collection when composed from
 `./data/db.json`.
 
 The database is exposed on port `:27017`.
 
-## Architecture
+## theArchitecture
 
 This is pretty straightforward DB setup that sits independently from the API and app.
 
-![mySampleDB](/images/mySampleDB.gif)
+![mySimpleDB](/images/mySimpleDB.gif)
 
 It is designed to be run inside a Docker container.
 
-## Docker Setup
+## dockerSetup
 
-Clone the repository and move to the `mysampledb` directory.
+Clone the repository and move to the `mysimpledb` directory.
 
 ```
 docker-compose up -d
