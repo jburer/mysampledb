@@ -1,28 +1,30 @@
 [
   {
-    "id": 5928101,
+    "id": 1,
     "title": "Cat Cabaret",
     "description": "Yay felines! Boo canines!",
     "location": "Meow Town, USA",
     "date": "2021-03-19",
-    "starttime": "02:00",
+    "starttime": "14:30",
     "endtime": "16:30"
   },
   {
-    "id": 8419988,
+    "id": 2,
     "title": "Kitty Cluster",
     "description": "Yay cats!",
     "location": "Catlandia",
     "date": "2019-01-31",
-    "starttime": "7:00"
+    "starttime": "7:00",
+    "endtime": "16:30"
   },
   {
-    "id": 3571937,
+    "id": 3,
     "title": "Planting Trees",
     "description": "Let's plant some trees!!",
     "location": "Forest",
     "date": "2021-01-22",
-    "starttime": "2:00"
+    "starttime": "2:00",
+    "endtime": "16:30"
   },
   {
     "id": 4,
@@ -30,7 +32,17 @@
     "date": "2018-08-12",
     "starttime": "10:00",
     "location": "Daytona Beach",
-    "description": "Let's clean up this beach."
+    "description": "Let's clean up this beach.",
+    "endtime": "16:30"
+  },
+  {
+    "id": 5,
+    "title": "Disco Party Part Duex",
+    "date": "2018-08-12",
+    "starttime": "10:00",
+    "location": "Daytona Beach",
+    "description": "The after, after party",
+    "endtime": "16:30"
   },
   {
     "id": 6,
@@ -38,7 +50,8 @@
     "date": "2018-12-02",
     "starttime": "12:00",
     "location": "132 N Magnolia Street, Orlando, Florida",
-    "description": "Help animals find new homes."
+    "description": "Help animals find new homes.",
+    "endtime": "16:30"
   },
   {
     "id": 7,
@@ -46,7 +59,8 @@
     "date": "2020-02-25",
     "starttime": "10:00",
     "location": "Daytona Beach",
-    "description": "Let's clean up this beach."
+    "description": "Let's clean up this beach.",
+    "endtime": "16:30"
   },
   {
     "id": 8,
@@ -54,7 +68,8 @@
     "date": "2021-01-15",
     "starttime": "12:00",
     "location": "132 N Magnolia Street, Orlando, Florida",
-    "description": "We're going to clean up this park."
+    "description": "We're going to clean up this park.",
+    "endtime": "16:30"
   },
   {
     "id": 9,
@@ -62,14 +77,7 @@
     "date": "2020-11-24",
     "starttime": "12:00",
     "location": "132 N Magnolia Street, Orlando, Florida",
-    "description": "Help animals find new homes."
-  },
-  {
-    "id": 7687659,
-    "title": "Nature v Nurture",
-    "description": "",
-    "location": "",
-    "date": "",
-    "starttime": ""
+    "description": "Tango, Baby!!",
+    "endtime": "14:00"
   }
 ]
