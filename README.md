@@ -32,7 +32,7 @@ This is pretty straightforward DB setup that sits independently from the API and
 
 It is designed to be run inside a Docker container.
 
-## dockerSetup
+## theDockerSetup
 
 Clone the repository and move to the `mysimpledb` directory.
 
