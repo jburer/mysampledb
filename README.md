@@ -2,8 +2,8 @@
 
 The thrid part of a three part app: The Datastore.
 
-- _The corresponding **API** is here: (https://github.com/jburer/mysampleapi)._
 - _The corresponding **app** is here: (https://github.com/jburer/mysampleapp)._
+- _The corresponding **API** is here: (https://github.com/jburer/mysimpleapi)._
 
 ## myPurpose
 
