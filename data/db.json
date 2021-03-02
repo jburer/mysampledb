@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "title": "Cat Cabaret",
-    "description": "Yay felines! Boo canines!",
-    "location": "Meow Town, USA",
+    "title": "Cat Adoption",
+    "description": "Come, look, adopt.  Give a cat a home!",
+    "location": "Pet Center",
     "date": "2021-03-19",
     "starttime": "14:30",
     "endtime": "16:30"
   },
   {
     "id": 2,
-    "title": "Kitty Cluster",
-    "description": "Yay cats!",
-    "location": "Catlandia",
+    "title": "Study of Homer's Epics",
+    "description": "And you thought you were done with Homer in college.",
+    "location": "Public Library",
     "date": "2019-01-31",
     "starttime": "7:00",
     "endtime": "16:30"
@@ -21,7 +21,7 @@
     "id": 3,
     "title": "Planting Trees",
     "description": "Let's plant some trees!!",
-    "location": "Forest",
+    "location": "Forest Park",
     "date": "2021-01-22",
     "starttime": "2:00",
     "endtime": "16:30"
@@ -31,26 +31,26 @@
     "title": "Disco Party",
     "date": "2018-08-12",
     "starttime": "10:00",
-    "location": "Daytona Beach",
-    "description": "Let's clean up this beach.",
+    "location": "Discotheque",
+    "description": "We're gonna party like it's 1999!",
     "endtime": "16:30"
   },
   {
     "id": 5,
-    "title": "Disco Party Part Duex",
-    "date": "2018-08-12",
-    "starttime": "10:00",
-    "location": "Daytona Beach",
+    "title": "Disco Party - Part Duex",
+    "date": "2018-08-13",
+    "starttime": "01:00",
+    "location": "Discotheque",
     "description": "The after, after party",
-    "endtime": "16:30"
+    "endtime": "06:30"
   },
   {
     "id": 6,
-    "title": "Orlando Dev Meetup",
+    "title": "Dev Meetup",
     "date": "2018-12-02",
     "starttime": "12:00",
     "location": "132 N Magnolia Street, Orlando, Florida",
-    "description": "Help animals find new homes.",
+    "description": "DevOps, SecDevOps welcome",
     "endtime": "16:30"
   },
   {
@@ -58,25 +58,25 @@
     "title": "Yoga Class",
     "date": "2020-02-25",
     "starttime": "10:00",
-    "location": "Daytona Beach",
-    "description": "Let's clean up this beach.",
-    "endtime": "16:30"
+    "location": "Seaside Beach",
+    "description": "Namasta! For beginners to advanced yogis.  Check out our Meditation Class happening at the same time!",
+    "endtime": "11:30"
   },
   {
     "id": 8,
     "title": "Breathing Meditation",
     "date": "2021-01-15",
-    "starttime": "12:00",
-    "location": "132 N Magnolia Street, Orlando, Florida",
-    "description": "We're going to clean up this park.",
-    "endtime": "16:30"
+    "starttime": "10:00",
+    "location": "Seaside Park",
+    "description": "All people welcome!  Check out our Yoga Class happening at the same time!",
+    "endtime": "12:30"
   },
   {
     "id": 9,
     "title": "Dancing Class",
     "date": "2020-11-24",
     "starttime": "12:00",
-    "location": "132 N Magnolia Street, Orlando, Florida",
+    "location": "Westin Dance Hall",
     "description": "Tango, Baby!!",
     "endtime": "14:00"
   }
