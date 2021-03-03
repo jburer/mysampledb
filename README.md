@@ -46,10 +46,12 @@ It is designed to be run inside a Docker container.
 
 ## myDockerSetup
 
-Create the `mysimplenetwork` network. _**PLEASE NOTE:** All images in this app are pre-configured to use this network by design._
-_Because `docker-compose.yml` expects this network, it is required to create it first before running docker compose._
+_**PLEASE NOTE:** All images in this app are pre-configured to use the `mysimplenetwork` network by design._
+_Because `docker-compose.yml` expects this network, it is necessary to create it first before running docker compose._
 _Creating the network first allows each image to be created independently, although you will want to start the database first_
 _before running the API as the API immediately looks for the DB._
+
+Create the `mysimplenetwork` network.
 
 <pre>
     docker network create mysimplenetwork
