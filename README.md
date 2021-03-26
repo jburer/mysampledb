@@ -3,7 +3,7 @@
 The thrid part of a three part app: The Datastore.
 
 - _The corresponding **UI**: (https://github.com/jburer/mysimpleui)._
-- _The corresponding **API**: (https://github.com/jburer/mysimpleapi)._
+- _The corresponding **Service**: (https://github.com/jburer/mysimpleservice)._
 
 ## myPurpose
 
