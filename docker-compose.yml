@@ -12,8 +12,3 @@ services:
     build: .
     depends_on:
       - mongo
-
-networks:
-  default:
-    external:
-      name: mysimplenetwork
